@@ -1,2 +1,2 @@
 # Project-Cordel
-In this site you can read a cordel (with a pleasant experience) written by Milton Duarte.
+Neste site você pode ler um cordel (com uma experiência agradável) escrito por Milton Duarte.
